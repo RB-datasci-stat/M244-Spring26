@@ -1,0 +1,83 @@
+---
+title: "Events"
+subtitle: "Spring 2025"
+format: 
+  html:
+    page-layout: full
+    theme: cosmo
+    toc: true
+    toc-title: "Contents"
+    embed-resources: true
+    standalone: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+**Monday, January 27.** Dr. Daryl DeFord from Washington State
+University will give a talk titled *Political Geometries: Analyzing
+Fairness in Redistricting with Statistics* from 5-6 in Rocky 312. Tea
+time will be from 4:30-5 in Rocky 305.
+
+**Friday, January 31.** Austin MBaye (VC '24) from Northeastern
+University will give a talk titled *Quantifying Repetitive Motor
+Patterns in Autism with Sliding Windows and n-Persistent Scoring
+(SWnPers)* at our Math Colloquium. The talk is from 4-5 PM in Rocky 312.
+Tea time will be from 3:30-4 in Rocky 305.
+
+**Thursday, February 6.** Dr. Shazeda Ahmed from UCLA will give a talk
+titled *The Work of 'Aligning' Artificial Intelligence* from 4-5:15 in
+Taylor 206 at the Data Science and Society Colloquium.
+
+**February 12-13.** The [Henry Seely White
+lectures](https://pages.vassar.edu/mathstats/hsw-lecture-series/) this
+year will be given by [Professor Xiao-Li
+Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng).\
+**Wednesday, February 12.** *Learning, Teaching, and Communication in
+the Age of AI: Wisdom and Warnings from Harvard Data Science Review (Or:
+Are you smarter than GPT-4?)* from 4-5 in Rocky 300.\
+**Thursday, February 13.** *From a Cauchy Surprise to the Half-Cauchy
+Miracle* from 2-3 in Rocky 300.\
+Additionally, students can meet with Dr. Xiao-Li Meng for lunch at noon
+on Thursday 2/13. Please reach out to me if you are interested.
+
+**Friday, February 21.** Dr. Jamie Juul from Colorado State University
+will give a talk at our Math Colloquium. The talk is from 4-5 PM in
+Rocky 312. Tea time will be from 3:30-4 in Rocky 305.
+
+**Tuesday, February 25.** Dr. Andrew Schultz from Wellesley College will
+give a talk titled *The Math Behind Deomcratic Systems* at our math
+colloquium. The talk is from 4-5 in Rocky 310. Tea time will be from
+3:30-4 in Rocky 305.
+
+**Thursday, February 27.** Dr. Nicole Holliday from UC Berkeley will
+present her latest research on how tone-detection systems and digital
+voice assistants like Siri and Alexa reinforce linguistic and racial
+bias. This talk will be from 7-9 PM in Rocky 300.
+
+**Tuesday, March 4.** Dr. Elise Zheng from Columbia University will give
+a talk titled *Sociotechnical Ethics of Big Data: Exploring the
+Intersection of Data, Knowledge, and Epistemic Justice* at the DSS
+colloquium. This talk will be from 2-3 PM in Rocky 307.
+
+**Thursday, April 3.** Katie Ellman-Aspnes from Notre Dame will give a
+talk titled *Classification Theory and the Map of the Universe* at the
+Math Colloquium. This talk will be from 4-5 in Rocky 305.
+
+**Saturday, April 5.** The [31st Hudson River Undergraduate Mathematics
+Conference](https://sites.google.com/view/hrumc) at Union College in
+Schenectady, New York. I hope you consider attending! Please let me know
+if you are interested in going.
+
+**April 11-13.** [DataFest](https://pages.vassar.edu/datafest/) is a
+data analysis competition where teams of up to five students have a
+weekend to attack a large, complex, and surprise dataset. Work together
+with your team members and consult with mentors to find and communicate
+insights into these data. The teams that impress the judges the most
+will win prizes. Everyone else will have a great experience, learn some
+new skills, and have fun! Go to the website to register.
+
+**Wednesday, April 23.** Dr. Becca Thomases from Smith College will give
+a talk titled *A Period-Doubling Route to Chaos in Viscoelastic Fluids.*
+This talk will be from 4-5 in Rocky 300. Tea time will be at 3:30-4 in
+Rocky 305.

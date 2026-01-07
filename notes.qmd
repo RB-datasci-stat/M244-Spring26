@@ -1,0 +1,89 @@
+---
+title: "Notes"
+subtitle: "Spring 2025"
+format: 
+  html:
+    page-layout: full
+    theme: cosmo
+    toc: true
+    toc-title: "Contents"
+    embed-resources: true
+    standalone: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+All slides and handouts for this course can be accessed in [Google
+Drive](https://drive.google.com/drive/folders/1bSsXZYec0jS52443tdppaMiCBs901hX3?usp=sharing).
+Please note that you must have a Vassar email in order to access the
+folder.
+
+**01/23/25.** 0-welcome. These slides give an overview of the course and
+the software we will be using.
+
+**01/28/25.** 1-R-vs-Python. These slides compare and contrast R and
+Python and includes a few coding exercises.
+
+**01/30/25.** Lab 1: Introduction to Git for Version Control.
+
+**02/04/25.** 3-R-Python-datasci. These slides compare and contrast R
+and Python for manipulating datasets and includes a few coding
+exercises.
+
+**02/06/25.** Lab 2: R, Python, and Git, Oh My!
+
+**02/11/25.** 5-datavis-R. These slides discuss how you can create data
+visualizations in R. We also started Lab 3: Data Visualization in R and
+Python.
+
+**02/13/25.** 6-datavis-py. These slides discuss how you can create data
+visualizations in Python. We also continued working on Lab 3: Data
+Visualization in R and Python.
+
+**02/18/25**. 7-webscraping-R. These slides discuss how to web scrape in
+R and how to write functions in R. We also started working on Lab 4: Web
+Scraping in R.
+
+**02/20/25.** 8-webscraping-R-py. These slides discuss how to web scrape
+in both R and Python at a larger scale. We continued working on Lab 4:
+Web Scraping in R.
+
+**02/25/25.** 9-intro-machine-learning. These slides introduce machine
+learning by discussing supervised & unsupervised learning, regression,
+and classification.
+
+**02/27/25.** 10-eval-models. These slides discuss how one can evaluate
+a model by thinking about mean square error, bias, and variance.
+
+**03/04/25.** 11-datasci-ethics. These slides discuss data ethics and
+things to consider when pursuing your own data science projects.
+
+**03/06/25.** Project work day.
+
+**03/25/25.** 13-lin-reg. These slides discuss linear regression and how
+to implement it in Python.
+
+**03/27/25.** 14-lasso-ridge and 13-lasso-ridge-code. These slides
+discuss ridge and lasso regression and how to implement these methods in
+Python and R.
+
+**04/01/25.** 15-logistic. These slides discuss logistic regression and
+how to implement it in Python.
+
+**04/03/25.** 16-svm. These slides discuss support vector machines and
+how to implement them in Python.
+
+**04/08/25.** 17-trees. These slides discuss decision tree modeling and
+implementing them in Python.
+
+**04/10/25.** 18-forests. These slides discuss bagging, boosting, and
+random forests and how to implement them in Python.
+
+**04/15/25.** 19-unsupervised-PCA. These slides introduce unsupervised
+learning and give a brief overview of principal component analysis
+(PCA). I also talked about how I use unsupervised learning in my
+research.
+
+**04/17/25.** 20-clustering. These slides and activities discuss k-means
+and hierarchical clustering.

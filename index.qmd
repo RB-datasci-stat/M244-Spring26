@@ -1,0 +1,9 @@
+---
+title: "MATH 244: Intermediate Data Science"
+---
+
+Welcome! This website contains course information for MATH 244: Intermediate Data Science at Vassar College for the spring 2025 semester.
+
+![](hedgehog.png){fig-align="center" width="603"}
+
+[Artwork by \@allison_horst](https://twitter.com/allison_horst)

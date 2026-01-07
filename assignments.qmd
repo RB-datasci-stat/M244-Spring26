@@ -1,0 +1,134 @@
+---
+title: "Assignments"
+subtitle: "Spring 2025"
+format: 
+  html:
+    page-layout: full
+    theme: cosmo
+    toc: true
+    toc-title: "Contents"
+    embed-resources: true
+    standalone: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+All homework, essays, labs, and project files can be accessed through
+the [Google
+Drive](https://drive.google.com/drive/folders/1-2MqxLJzUI0wxI8IhVN17Et8YvWTRxF-?usp=sharing).
+Please note that you must have a Vassar email in order to access the
+folder.
+
+## **Ungraded Assignments to Prepare for Class**
+
+**01/23/25.** Install Python, R, and RStudio on your personal computer.
+See the syllabus for links to installation instructions. Additionally,
+look over the R vs. Python slides (in the folder Notes \> 1-R-vs-Python)
+before class on Tuesday.
+
+**01/28/25.** Install Git and make a Github account. See the syllabus
+for instructions.
+
+**01/30/25.** Look over the slides in Notes \> 3-R-Python-datasci before
+class on Tuesday. Additionally, fill out the course check-in by Monday.
+The form link is posted in Slack in `#m244-announcements`
+
+**02/06/25**. Look over the slides in Notes \> 5-datavis-R before class
+on Tuesday. Additionally, fill out the course check-in by Monday.
+
+**02/11/25.** Look over the slides in Notes \> 6-datavis-py before class
+on Thursday.
+
+**02/13/25.** Look over the slides in Notes \> 7-webscraping-R before
+class on Tuesday. Additionally, fill out the course check-in by Monday.
+
+**02/20/25.** Fill out the course check-in by Monday.
+
+**02/27/25.** Fill out the course check-in by Monday.
+
+**03/27/25.** Fill out the course check-in which is a mid semester
+feedback survey by Monday. Additionally, look over the slides in Notes
+\> 15-logistic before class on Tuesday.
+
+**04/15/25.** Fill out the course check-in by Friday.
+
+## Homework
+
+All homework assignments will be submitted to Gradescope.
+
+0.  Course Information sheet. This is due Thursday, January 30th.
+1.  Data Science in R and Python. This is due Thursday, February 13th.
+2.  Web Scraping in R. This is due Thursday, February 27th.
+3.  Regularization and Deforestation in Python. This is due Thursday,
+    April 10th.
+4.  Unsupervised Learning. This is due Thursday, May 1st.
+
+## Essays
+
+1.  *My Coding Autobiography.* This is open ended and some things you
+    can include are:\
+    \* When did you start coding and why?\
+    \* How do you learn coding?\
+    \* What have been your biggest successes and struggles with coding?\
+    \* What are your coding goals?\
+    This is due Tuesday, February 4th in Gradescope.
+
+2.  *Data Visualization.* Read the two articles on misleading data
+    visualizations during COVID-19 in the Essays \> 2-data-vis folder.
+    In your essay, include the following:\
+    \* Summarize the main take-aways in the two articles.\
+    \* Comment on both good or bad data visualizations you have
+    encountered.\
+    \* What will be your general approach for approaching data
+    visualizations in the future?\
+    Your essay should be around 1-2 pages in length. This is due
+    Thursday, February 20th in Gradescope.
+
+3.  *Data Ethics.* Read *Data Science as Political Action: Grounding
+    Data Science in a Politics of Justice* in Essays \> 3-ethics. In
+    your essay include the following:\
+    \* Summarize the key points in Green's article.\
+    \* In the context of your own personal values and Green’s article on
+    the politics of data science, what do you think is important when it
+    comes to the topics you and your group members picked for the
+    project?\
+    Your essay should be around 1-2 pages in length. This is due
+    Thursday, March 27th in Gradescope.
+
+4.  There will be a final take-home essay during finals week.
+
+## Labs
+
+1.  *Introduction to Git for Version Control.* 01/30. We will finish it
+    in class on Tuesday, February 4th.
+2.  *R, Python, and Git: Oh My!* 02/06. This is due Monday, February
+    10th in Gradescope.
+3.  *Data Visualization in R and Python*. 02/11 and 02/13. This is due
+    Monday, February 17th in Gradescope.
+4.  *Web Scraping in R.* 02/18 and 02/20. This is due Monday, February
+    24th in Gradescope.
+5.  *Linear Regression with Penguins.* 02/25 and 02/27. This is due
+    Monday, March 3rd in Gradescope.
+6.  *Linear Regression in Python.* 03/25 and 03/27. This lab consists of
+    the in class exercises from these days. You can find them in the
+    slides. This is due Monday, March 31st in Gradescope.
+7.  *Logistic Regression and Support Vector Machines.* 04/1 and 04/3.
+    This lab consists of the in class exercises from these days. you can
+    find them in the slides. This is due Monday, April 7th in
+    Gradescope.
+8.  *Trees for Evaluating Evaluations.* 04/10. This lab was not
+    collected.
+
+Note there was no lab for the week of 3/3-3/6 (week before spring
+break).
+
+## Project
+
+1.  Project Proposal. This is due Wednesday, March 5th.
+2.  Exploratory Data Analysis. This is due Thursday, April 3rd.
+3.  Preliminary Analysis. This is due Thursday, April 17th.
+4.  Peer Review. This is due Thursday, April 24th.
+5.  Project Presentations. These will occur Thursday, May 1st and
+    Tuesday, May 6th.
+6.  Final Report. This is due Tuesday, May 13th.
