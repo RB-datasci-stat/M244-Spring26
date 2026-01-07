@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Please note that this schedule is filterable and searchable."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MATH 244: Intermediate Data Science",
+    "section": "",
+    "text": "Welcome! This website contains course information for MATH 244: Intermediate Data Science at Vassar College for the spring 2025 semester.\n\n\n\n\n\nArtwork by @allison_horst"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "All slides and handouts for this course can be accessed in Google Drive. Please note that you must have a Vassar email in order to access the folder.\n01/23/25. 0-welcome. These slides give an overview of the course and the software we will be using.\n01/28/25. 1-R-vs-Python. These slides compare and contrast R and Python and includes a few coding exercises.\n01/30/25. Lab 1: Introduction to Git for Version Control.\n02/04/25. 3-R-Python-datasci. These slides compare and contrast R and Python for manipulating datasets and includes a few coding exercises.\n02/06/25. Lab 2: R, Python, and Git, Oh My!\n02/11/25. 5-datavis-R. These slides discuss how you can create data visualizations in R. We also started Lab 3: Data Visualization in R and Python.\n02/13/25. 6-datavis-py. These slides discuss how you can create data visualizations in Python. We also continued working on Lab 3: Data Visualization in R and Python.\n02/18/25. 7-webscraping-R. These slides discuss how to web scrape in R and how to write functions in R. We also started working on Lab 4: Web Scraping in R.\n02/20/25. 8-webscraping-R-py. These slides discuss how to web scrape in both R and Python at a larger scale. We continued working on Lab 4: Web Scraping in R.\n02/25/25. 9-intro-machine-learning. These slides introduce machine learning by discussing supervised & unsupervised learning, regression, and classification.\n02/27/25. 10-eval-models. These slides discuss how one can evaluate a model by thinking about mean square error, bias, and variance.\n03/04/25. 11-datasci-ethics. These slides discuss data ethics and things to consider when pursuing your own data science projects.\n03/06/25. Project work day.\n03/25/25. 13-lin-reg. These slides discuss linear regression and how to implement it in Python.\n03/27/25. 14-lasso-ridge and 13-lasso-ridge-code. These slides discuss ridge and lasso regression and how to implement these methods in Python and R.\n04/01/25. 15-logistic. These slides discuss logistic regression and how to implement it in Python.\n04/03/25. 16-svm. These slides discuss support vector machines and how to implement them in Python.\n04/08/25. 17-trees. These slides discuss decision tree modeling and implementing them in Python.\n04/10/25. 18-forests. These slides discuss bagging, boosting, and random forests and how to implement them in Python.\n04/15/25. 19-unsupervised-PCA. These slides introduce unsupervised learning and give a brief overview of principal component analysis (PCA). I also talked about how I use unsupervised learning in my research.\n04/17/25. 20-clustering. These slides and activities discuss k-means and hierarchical clustering."
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "All homework, essays, labs, and project files can be accessed through the Google Drive. Please note that you must have a Vassar email in order to access the folder."
+  },
+  {
+    "objectID": "assignments.html#ungraded-assignments-to-prepare-for-class",
+    "href": "assignments.html#ungraded-assignments-to-prepare-for-class",
+    "title": "Assignments",
+    "section": "Ungraded Assignments to Prepare for Class",
+    "text": "Ungraded Assignments to Prepare for Class\n01/23/25. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions. Additionally, look over the R vs. Python slides (in the folder Notes &gt; 1-R-vs-Python) before class on Tuesday.\n01/28/25. Install Git and make a Github account. See the syllabus for instructions.\n01/30/25. Look over the slides in Notes &gt; 3-R-Python-datasci before class on Tuesday. Additionally, fill out the course check-in by Monday. The form link is posted in Slack in #m244-announcements\n02/06/25. Look over the slides in Notes &gt; 5-datavis-R before class on Tuesday. Additionally, fill out the course check-in by Monday.\n02/11/25. Look over the slides in Notes &gt; 6-datavis-py before class on Thursday.\n02/13/25. Look over the slides in Notes &gt; 7-webscraping-R before class on Tuesday. Additionally, fill out the course check-in by Monday.\n02/20/25. Fill out the course check-in by Monday.\n02/27/25. Fill out the course check-in by Monday.\n03/27/25. Fill out the course check-in which is a mid semester feedback survey by Monday. Additionally, look over the slides in Notes &gt; 15-logistic before class on Tuesday.\n04/15/25. Fill out the course check-in by Friday."
+  },
+  {
+    "objectID": "assignments.html#homework",
+    "href": "assignments.html#homework",
+    "title": "Assignments",
+    "section": "Homework",
+    "text": "Homework\nAll homework assignments will be submitted to Gradescope.\n\nCourse Information sheet. This is due Thursday, January 30th.\nData Science in R and Python. This is due Thursday, February 13th.\nWeb Scraping in R. This is due Thursday, February 27th.\nRegularization and Deforestation in Python. This is due Thursday, April 10th.\nUnsupervised Learning. This is due Thursday, May 1st."
+  },
+  {
+    "objectID": "assignments.html#essays",
+    "href": "assignments.html#essays",
+    "title": "Assignments",
+    "section": "Essays",
+    "text": "Essays\n\nMy Coding Autobiography. This is open ended and some things you can include are:\n* When did you start coding and why?\n* How do you learn coding?\n* What have been your biggest successes and struggles with coding?\n* What are your coding goals?\nThis is due Tuesday, February 4th in Gradescope.\nData Visualization. Read the two articles on misleading data visualizations during COVID-19 in the Essays &gt; 2-data-vis folder. In your essay, include the following:\n* Summarize the main take-aways in the two articles.\n* Comment on both good or bad data visualizations you have encountered.\n* What will be your general approach for approaching data visualizations in the future?\nYour essay should be around 1-2 pages in length. This is due Thursday, February 20th in Gradescope.\nData Ethics. Read Data Science as Political Action: Grounding Data Science in a Politics of Justice in Essays &gt; 3-ethics. In your essay include the following:\n* Summarize the key points in Green’s article.\n* In the context of your own personal values and Green’s article on the politics of data science, what do you think is important when it comes to the topics you and your group members picked for the project?\nYour essay should be around 1-2 pages in length. This is due Thursday, March 27th in Gradescope.\nThere will be a final take-home essay during finals week."
+  },
+  {
+    "objectID": "assignments.html#labs",
+    "href": "assignments.html#labs",
+    "title": "Assignments",
+    "section": "Labs",
+    "text": "Labs\n\nIntroduction to Git for Version Control. 01/30. We will finish it in class on Tuesday, February 4th.\nR, Python, and Git: Oh My! 02/06. This is due Monday, February 10th in Gradescope.\nData Visualization in R and Python. 02/11 and 02/13. This is due Monday, February 17th in Gradescope.\nWeb Scraping in R. 02/18 and 02/20. This is due Monday, February 24th in Gradescope.\nLinear Regression with Penguins. 02/25 and 02/27. This is due Monday, March 3rd in Gradescope.\nLinear Regression in Python. 03/25 and 03/27. This lab consists of the in class exercises from these days. You can find them in the slides. This is due Monday, March 31st in Gradescope.\nLogistic Regression and Support Vector Machines. 04/1 and 04/3. This lab consists of the in class exercises from these days. you can find them in the slides. This is due Monday, April 7th in Gradescope.\nTrees for Evaluating Evaluations. 04/10. This lab was not collected.\n\nNote there was no lab for the week of 3/3-3/6 (week before spring break)."
+  },
+  {
+    "objectID": "assignments.html#project",
+    "href": "assignments.html#project",
+    "title": "Assignments",
+    "section": "Project",
+    "text": "Project\n\nProject Proposal. This is due Wednesday, March 5th.\nExploratory Data Analysis. This is due Thursday, April 3rd.\nPreliminary Analysis. This is due Thursday, April 17th.\nPeer Review. This is due Thursday, April 24th.\nProject Presentations. These will occur Thursday, May 1st and Tuesday, May 6th.\nFinal Report. This is due Tuesday, May 13th."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Monday, January 27. Dr. Daryl DeFord from Washington State University will give a talk titled Political Geometries: Analyzing Fairness in Redistricting with Statistics from 5-6 in Rocky 312. Tea time will be from 4:30-5 in Rocky 305.\nFriday, January 31. Austin MBaye (VC ’24) from Northeastern University will give a talk titled Quantifying Repetitive Motor Patterns in Autism with Sliding Windows and n-Persistent Scoring (SWnPers) at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nThursday, February 6. Dr. Shazeda Ahmed from UCLA will give a talk titled The Work of ‘Aligning’ Artificial Intelligence from 4-5:15 in Taylor 206 at the Data Science and Society Colloquium.\nFebruary 12-13. The Henry Seely White lectures this year will be given by Professor Xiao-Li Meng.\nWednesday, February 12. Learning, Teaching, and Communication in the Age of AI: Wisdom and Warnings from Harvard Data Science Review (Or: Are you smarter than GPT-4?) from 4-5 in Rocky 300.\nThursday, February 13. From a Cauchy Surprise to the Half-Cauchy Miracle from 2-3 in Rocky 300.\nAdditionally, students can meet with Dr. Xiao-Li Meng for lunch at noon on Thursday 2/13. Please reach out to me if you are interested.\nFriday, February 21. Dr. Jamie Juul from Colorado State University will give a talk at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nTuesday, February 25. Dr. Andrew Schultz from Wellesley College will give a talk titled The Math Behind Deomcratic Systems at our math colloquium. The talk is from 4-5 in Rocky 310. Tea time will be from 3:30-4 in Rocky 305.\nThursday, February 27. Dr. Nicole Holliday from UC Berkeley will present her latest research on how tone-detection systems and digital voice assistants like Siri and Alexa reinforce linguistic and racial bias. This talk will be from 7-9 PM in Rocky 300.\nTuesday, March 4. Dr. Elise Zheng from Columbia University will give a talk titled Sociotechnical Ethics of Big Data: Exploring the Intersection of Data, Knowledge, and Epistemic Justice at the DSS colloquium. This talk will be from 2-3 PM in Rocky 307.\nThursday, April 3. Katie Ellman-Aspnes from Notre Dame will give a talk titled Classification Theory and the Map of the Universe at the Math Colloquium. This talk will be from 4-5 in Rocky 305.\nSaturday, April 5. The 31st Hudson River Undergraduate Mathematics Conference at Union College in Schenectady, New York. I hope you consider attending! Please let me know if you are interested in going.\nApril 11-13. DataFest is a data analysis competition where teams of up to five students have a weekend to attack a large, complex, and surprise dataset. Work together with your team members and consult with mentors to find and communicate insights into these data. The teams that impress the judges the most will win prizes. Everyone else will have a great experience, learn some new skills, and have fun! Go to the website to register.\nWednesday, April 23. Dr. Becca Thomases from Smith College will give a talk titled A Period-Doubling Route to Chaos in Viscoelastic Fluids. This talk will be from 4-5 in Rocky 300. Tea time will be at 3:30-4 in Rocky 305."
+  },
+  {
+    "objectID": "syllabus.html#texts",
+    "href": "syllabus.html#texts",
+    "title": "Syllabus",
+    "section": "Texts",
+    "text": "Texts\nWe will use the following textbook:\n\nIntroduction to Statistical Learning: with Applications in Python by James, Witten, Hastie, Tibshirani, and Taylor (ISLP in Schedule). We will use this book for learning about core topics in machine learning.\n\nPlease note that there is a version of this book called Introduction to Statistical Learning: with Applications in R, which is the same book conceptually but with labs in R instead of Python. As we will be using Python for the machine learning components, I suggest that you download the Python version.\nPlease note that the pdf version of this textbook is free! There is no need to purchase a hard copy unless you want to.\nFor other topics, there will be readings posted to Moodle and linked in the schedule."
+  },
+  {
+    "objectID": "syllabus.html#software",
+    "href": "syllabus.html#software",
+    "title": "Syllabus",
+    "section": "Software",
+    "text": "Software\nThere are software requirements for the course. I highly recommend installing RStudio, R, Python, and Git to your personal computer. This is a very useful skill. However, I do not want this to be an obstacle for learning class material. Accessing these software through a server and web browser is also acceptable. See below for more details on each one.\n\nR\nWe will use R and RStudio throughout this course. You may access both of these resources on the Vassar College server:\n\nFor on campus: http://rstudio.vassar.edu/\nUnfortunately, you cannot access the server off campus.\n\nAlternatively (and recommended), you can download and install R on your computer at http://cran.r-project.org/, as well as RStudio which is available at https://posit.co/download/rstudio-desktop/. Please follow the instructions for downloading both here: https://moderndive.netlify.app/1-getting-started.html#installing (although note that since RStudio has become Posit, the steps for installing RStudio may be slightly different).\n\nReading More About R\nIf you want to brush up on your R skills, R for Data Science (2e) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund is an excellent introduction to the tidyverse approach to R programming.\nIf you are interested in R as a programming language, feel free to check out Hadley Wickham’s1 excellent Advanced R. You can access its contents for free online here: https://adv-r.hadley.nz/.\n\n\n\nPython\nWe will be using Python for the machine learning components of the course. You should also install Python and Jupyter Notebook on your computer. There are many ways to do this. One way is to install the Anaconda distribution of Python; it collects a wide array of useful packages, libraries, and applications that make it possible to use Python on your own computer. You can install from https://www.anaconda.com/products/distribution. See https://docs.anaconda.com/anaconda/install/index.html for helpful instructions for different platforms.\n\nReading More About Python\nThere are many books written about Python. A good place to start is this link, which collects a list of 5 free books on learning Python.\nIn particular, Python for Everybody by Charles R. Severance is a great resource for those learning to use Python for data science, and A Whirlwind Tour of Python by Jake VanderPlas is a great introduction to Python in general; it serves as a necessary prerequisite to his Python Data Science Handbook.\n\n\n\nGit\nYou also need to install Git. Please follow the instructions at this link to do so: http://rafalab.dfci.harvard.edu/dsbook/accessing-the-terminal-and-installing-git.html. A helpful resource for using Git is the ProGit online book.\nYou will also need to make a Github account, if you have not done so. Please see here for instructions: https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account.\nWe will set-up Git together during the first lab so there is no need to do it before then."
+  },
+  {
+    "objectID": "syllabus.html#course-communication",
+    "href": "syllabus.html#course-communication",
+    "title": "Syllabus",
+    "section": "Course Communication",
+    "text": "Course Communication\nAll course materials—including slides, worksheets, assignments, and other course resources—will be posted on the class Moodle. The Moodle page will either direct you to this course website or to the Google drive that contains the raw files you might want to download. Course communication will otherwise occur via our M 244 Slack workspace. In particular, I ask that you please not email me with course-related questions, but rather post these questions in the appropriate Slack channel. If discretion is needed, please feel free to direct message me on Slack.\nDuring the week, I will try my best to answer all Slack messages within 24 hours of receiving them. However, if you message me over the weekend or holidays, I may not respond to your message until classes resume in an effort to maintain my own work-life balance. Please plan accordingly."
+  },
+  {
+    "objectID": "syllabus.html#assignments-and-evaluation",
+    "href": "syllabus.html#assignments-and-evaluation",
+    "title": "Syllabus",
+    "section": "Assignments and Evaluation",
+    "text": "Assignments and Evaluation\n\nEngagement (5%)\nStatistics is best learned through doing! Please come to class ready to discuss and engage with the course material. You should keep a course notebook that contains materials from class along with notes you take from the textbook. Every Monday, you will submit a course check-in. This will be a Google form on what you learned in class last week. Specifically, it will ask you to:\n\nDescribe the main topic in your own words\nWrite down the most important thing that you learned.\nWrite two questions you have about the material.\n\nI expect you to attend class, be actively engaged, and ask questions—in class, during office hours, and on the course Slack—and to contribute towards answering the questions of others. If you are unable to attend class, please let me know in advance so we can make arrangements.\n\n\nExtra Credit Opportunity\nThroughout the course, you can earn up to a maximum of 12 extra credit points. Six of these points can be added to your lowest homework or essay score. The other six can be added to your project score. You can earn points through any of the following engagement activities:\n\n1 point for every question asked on the #questions Slack channel.\n1 point for every question answered on the #questions Slack channel.\n2 points for every math, statistics, or data science talk you attend.\n4 points for participating in DataFest (April 11-13).\n2 points for completing the course evaluation.\n\nYou will keep track of your own extra credit points and let me know how many you earned at the end of the semester.\n\n\nHomework (25%)\nThere will be about five homework assignments that will generally be due on Thursdays at 11:59 PM. These problem sets will ask you to demonstrate and grow your conceptual understanding of data science. Homework will be submitted as pdfs on Gradescope and will be graded for correctness, neatness, and clarity.\nIn order to encourage the reading of feedback and growth/improvement, you will have the opportunity to revise and re-submit one problem once it has been graded.\n\n\nLabs (15%)\nThere will be labs roughly once a week. We will start lab assignments in class that will have you apply topics from that week. You will often work on a lab with your group. You may need to finish these labs outside of class. The lab assignment will be submitted as a pdf to Gradescope by 11:59 PM the following Monday. Note that every individual must submit a lab. Labs are graded on completion. In order to earn full completion points, you must answer each question with your best effort, and format it properly (e.g. if the question involved coding, the code should be presented in a code chunk). We will talk more about the format of labs as the semester progresses.\n\n\nShort Essays (15%)\nDuring the semester you will write several short essays. These will be graded for correctness, neatness, and clarity. You will complete most of these essays outside of class and one or two during class.\n\n\nProject (35%)\nThe class has a capstone final project for which students, working in groups, conduct and present an original data analysis on a dataset of your choice.\nThe aim of the project is for you to apply concepts and techniques we will cover in this course. You can use an existing dataset or collect your own data.\nYou will be able to form your own groups for the project. Please keep in mind that each group member will get the same grade on project components. When deciding on groups, I encourage you to think about the time commitments and motivations each person has for being in the class and working on the project. If you cannot form a group, I will put you in one.\nThe project consists of the following components (in parentheses is weight of that component’s grade in the overall project grade):\n\nProposal (5%)\nExploratory Data Analysis (7.5%)\nPeer Review of Preliminary Analysis (15%)\nPresentation (30%)\nReport (30%)\nTeam member evaluation (2.5%)\nGitHub Repo (10%)\n\nAt the end of the project, you will evaluate your own and your group members’ contribution to the project.\nMore information will be provided about the project and the individual components later in the semester."
+  },
+  {
+    "objectID": "syllabus.html#grade-breakdown",
+    "href": "syllabus.html#grade-breakdown",
+    "title": "Syllabus",
+    "section": "Grade Breakdown",
+    "text": "Grade Breakdown\nFinal grades will be weighted as follows:\n\n\n\nEngagement\n5%\n\n\nHomework\n25%\n\n\nLabs\n20%\n\n\nShort Essays\n15%\n\n\nProject\n35%\n\n\n\nI will use the following grading scale:\n\nA: 100-93; A-: &lt; 93-90\nB+: &lt; 90-87; B: &lt; 87-83; B-: &lt; 83-80\nC+ &lt; 80-77; C: &lt; 77-73; C-: &lt; 73-70\nD+: &lt; 70-67; D: &lt; 67-60\nF: &lt; 60\n\nDue to the extra credit opportunity, I will not do any rounding."
+  },
+  {
+    "objectID": "syllabus.html#class-norms",
+    "href": "syllabus.html#class-norms",
+    "title": "Syllabus",
+    "section": "Class Norms",
+    "text": "Class Norms\nI expect that we all hold ourselves to the following five standards:\n\nTreat others with the dignity and respect you would like to receive.\nEmbrace productive struggle and making mistakes, and have grace for the mistakes of others.\nAsk questions to deepen your understanding, and ask for help when you need it.\nParticipate to the best of your ability.\nPrioritize your health and well-being."
+  },
+  {
+    "objectID": "syllabus.html#latework",
+    "href": "syllabus.html#latework",
+    "title": "Syllabus",
+    "section": "Collaboration",
+    "text": "Collaboration\nData science is in many ways a team sport! I strongly encourage you to form study groups and to work together to complete your homework and lab assignments. However, I also ask that you take ownership over your work in this course. Collaborating involves sharing ideas and/or working on the problem solving aspects together, and then writing up answers or code individually. If the code or work that you turn in is modeled after something you found online or received help on by a peer, please cite this source. We will talk more about collaboration and academic integrity throughout the course."
+  },
+  {
+    "objectID": "syllabus.html#generative-ai",
+    "href": "syllabus.html#generative-ai",
+    "title": "Syllabus",
+    "section": "Generative AI",
+    "text": "Generative AI\nGenerative AI such as ChatGPT can be a powerful tool for helping you to write and debug code. With this new form of technology, we are still learning the pros and cons of its use. If you use generative AI on an assignment, please acknowledge this and write a sentence or two on your interactions and how useful you found it. This will help us all better understand its pros and cons.\nPlease be aware that generative AI is designed to mimic human language - not to output the truth. You should always double check if the output from generative AI makes sense. Furthermore, be careful to not rely on generative AI too heavily. After all, generative AI is not necessary for successfully completing this course."
+  },
+  {
+    "objectID": "syllabus.html#q-center-peer-support-services",
+    "href": "syllabus.html#q-center-peer-support-services",
+    "title": "Syllabus",
+    "section": "Q-Center Peer Support Services",
+    "text": "Q-Center Peer Support Services\nThis course fulfills the quantitative analysis (QA) requirement for graduation. All Vassar students have access to free, drop-in, peer-to-peer quantitative tutoring at the Quantitative Reasoning Center (Q-Center). Quantitative tutors (Q-Tutors) excel in a variety of STEM courses. They are typically available Sunday-Thursday 3pm-11pm while classes are in session. Q-Tutors who specialize in Mathematics and Physics are located in the Main Library, Room 122 behind the Writing Center. Q-Tutors who specialize in Chemistry and Economics are located in the Main Library, Room 88 near Special Collections. If you have a quantitative question beyond these four disciplines, Q-Tutors are available to attempt to help you with this question or will help direct you to someone else who may be better able to help. Schedules and other important information can be found at https://offices.vassar.edu/ltrc/qrc/."
+  },
+  {
+    "objectID": "syllabus.html#academic-accomodations",
+    "href": "syllabus.html#academic-accomodations",
+    "title": "Syllabus",
+    "section": "Academic Accomodations",
+    "text": "Academic Accomodations\nAcademic accommodations are available for students registered with the Office for Accessibility and Educational Opportunity (AEO). Students in need of disability (ADA/504) accommodations should schedule an appointment with me early in the semester to discuss any accommodations for this course that have been approved by the Office for Accessibility and Educational Opportunity, as indicated in your AEO accommodation letter."
+  },
+  {
+    "objectID": "syllabus.html#title-ix-resources",
+    "href": "syllabus.html#title-ix-resources",
+    "title": "Syllabus",
+    "section": "Title IX Resources",
+    "text": "Title IX Resources\nVassar College is committed to providing a safe learning environment for all students that is free of all forms of discrimination and sexual harassment, including sexual assault, domestic violence, dating violence, and stalking. If you (or someone you know) has experienced or experiences any of these incidents, know that you are not alone. Vassar College has staff members trained to support you in navigating campus life, accessing health and counseling services, providing academic and housing accommodations, helping with legal protective orders, and more.\nPlease be aware all Vassar faculty members are “responsible employees,” which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I must share that information with the Title IX Coordinator. Although I have to make that notification, you will control how your case will be handled, including whether or not you wish to pursue a formal complaint. Our goal is to make sure you are aware of the range of options available to you and have access to the resources you need.\nIf you wish to speak to someone privately, you can contact any of the following on-campus resources:\n\nCounseling Service (counselingservice.vassar.edu, 845-437-5700)\nHealth Service (healthservice.vassar.edu, 845-437-5800)\nRachel Gellert, SAVP (Support, Advocacy, and Violence Prevention) director, 845-437-7863)\nSAVP advocate, available 24/7 by calling the CRC at 845-437-7333\n\nThe SAVP website (savp.vassar.edu and the Title IX section of the EOAA website (eoaa.vassar.edu/title-ix/) have more information, as well as links to both on- and off-campus resources.\n\nAcknowledgement:\nThe content and structure of this syllabus is modeled after related syllabi from Drs. Simon Hoellerbauer (University of Massachusetts at Amherst) and Ming-Wen An (Vassar College)."
+  },
+  {
+    "objectID": "syllabus.html#footnotes",
+    "href": "syllabus.html#footnotes",
+    "title": "Syllabus",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHadley Wickham is a statistician, the creator of the ggplot2 package and the tidyverse, and Chief Scientist at RStudio. He’s from New Zealand, hence the .nz in the links here and above.↩︎"
+  }
+]
