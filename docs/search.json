@@ -11,7 +11,7 @@
     "href": "notes.html",
     "title": "Notes",
     "section": "",
-    "text": "All slides and handouts for this course can be accessed in Google Drive. Please note that you must have a Vassar email in order to access the folder.\nTue Jan 22. 0-welcome. These slides give an overview of the course, and a brief history of data science and LLMs."
+    "text": "All slides and handouts for this course can be accessed in Google Drive. Please note that you must have a Vassar email in order to access the folder.\nTue Jan 22. 0-welcome. These slides give an overview of the course, and a brief history of LLMs."
   },
   {
     "objectID": "assignments.html",
@@ -25,7 +25,7 @@
     "href": "assignments.html#ungraded-assignments-to-prepare-for-class",
     "title": "Assignments",
     "section": "Ungraded Assignments to Prepare for Class",
-    "text": "Ungraded Assignments to Prepare for Class\nThu Jan 22. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions. Additionally, look over the R vs. Python slides (in the folder Notes &gt; 1-R-vs-Python) before class on Tuesday.\nTue Jan 27. Install Git and make a Github account. See the syllabus for instructions."
+    "text": "Ungraded Assignments to Prepare for Class\nThu Jan 22. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions.\nTue Jan 27. Install Git and make a Github account. See the syllabus for instructions."
   },
   {
     "objectID": "assignments.html#homework",
@@ -39,7 +39,7 @@
     "href": "assignments.html#labs",
     "title": "Assignments",
     "section": "Labs",
-    "text": "Labs\n\nIntroduction to Git for Version Control. 01/30."
+    "text": "Labs"
   },
   {
     "objectID": "assignments.html#project",
