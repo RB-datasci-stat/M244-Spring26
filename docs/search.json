@@ -25,7 +25,7 @@
     "href": "assignments.html#ungraded-assignments-to-prepare-for-class",
     "title": "Assignments",
     "section": "Ungraded Assignments to Prepare for Class",
-    "text": "Ungraded Assignments to Prepare for Class\nThu Jan 22. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions.\nTue Jan 27. Install Git and make a Github account. See the syllabus. for instructions."
+    "text": "Ungraded Assignments to Prepare for Class\nThu Jan 22. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions.\nTue Jan 27. Install Git and make a Github account. See the syllabus. for instructions.\nFri Feb 6. HW 2: Study Guide for Quiz 1 was posted. These exercises give you more practice for manipulating data in both Python and R, as well as some practice quiz questions."
   },
   {
     "objectID": "assignments.html#homework",
@@ -39,7 +39,7 @@
     "href": "assignments.html#labs",
     "title": "Assignments",
     "section": "Labs",
-    "text": "Labs\n\nIntroduction to Git."
+    "text": "Labs\n\nIntroduction to Git.\nR, Python, and Git, Oh My!"
   },
   {
     "objectID": "assignments.html#project",
