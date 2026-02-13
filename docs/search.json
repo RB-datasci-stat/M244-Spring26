@@ -11,7 +11,7 @@
     "href": "notes.html",
     "title": "Notes",
     "section": "",
-    "text": "All slides and handouts for this course can be accessed in Google Drive. Please note that you must have a Vassar email in order to access the folder.\nThur Jan 22. 0-welcome. These slides give an overview of the course, and a brief history of LLMs.\nTue Jan 27. 1-R-vs-Python. These slides compare and contrast R and Python and includes a few coding exercises.\nThu Jan 29. Lab 1. Introduction to Git.\nTue Feb 3. 3-R-Python-datasci. These slides compare and contrast R and Python for manipulating datasets and includes a few coding exercises."
+    "text": "All slides and handouts for this course can be accessed in Google Drive. Please note that you must have a Vassar email in order to access the folder.\nThur Jan 22. 0-welcome. These slides give an overview of the course, and a brief history of LLMs.\nTue Jan 27. 1-R-vs-Python. These slides compare and contrast R and Python and includes a few coding exercises.\nThu Jan 29. Lab 1. Introduction to Git.\nTue Feb 3. 3-R-Python-datasci. These slides compare and contrast R and Python for manipulating datasets and includes a few coding exercises.\nThu Feb 5. Lab 2. R, Python, and Git, Oh My!\nTue Feb 10. 5-datavis-R. These slides provide examples on how to create data visualizations in R. We then created a class-info dataset and created data visualizations from it.\nThur Feb 12. 6-datavis-py. These slides provide examples on how to create data visualizations in Python. We went through an example with the class-info dataset, and then spent the last 30 minutes of class taking Quiz 1."
   },
   {
     "objectID": "assignments.html",
@@ -32,7 +32,7 @@
     "href": "assignments.html#homework",
     "title": "Assignments",
     "section": "Homework",
-    "text": "Homework\nAll homework assignments will be submitted to Gradescope.\n\nCourse Information sheet. This is due Friday, January 30th.\nR vs Python + Misc. This is due Friday, February 6th."
+    "text": "Homework\nAll homework assignments will be submitted to Gradescope.\n\nCourse Information sheet. This is due Friday, January 30th.\nR vs Python + Misc. This is due Friday, February 6th.\nStudy Guide for Quiz 1.\nData Visualization in R and Python. This is due Friday, February 20th."
   },
   {
     "objectID": "assignments.html#labs",
@@ -53,7 +53,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Thursday, February 5. Dr. Cheyne Glass from SUNY New Paltz will give a math colloquium talk titled, The Unreasonable Ubiquity of Presheaves in Taylor 203 at 4 PM. Tea time will be at 3:30 in Rocky 305.\nApril 17-19. DataFest is a data analysis competition where teams of up to five students have a weekend to attack a large, complex, and surprise dataset. You will work together with your team members, and consult with mentors to find and communicate insights into these data. The teams that impress the judges the most will win prizes. Everyone else will have a great experience, learn some new skills, and have fun! Go to the website to register. :)"
+    "text": "Thursday, February 5. Dr. Cheyne Glass from SUNY New Paltz will give a math colloquium talk titled, The Unreasonable Ubiquity of Presheaves in Taylor 203 at 4 PM. Tea time will be at 3:30 in Rocky 305.\nMonday, February 16. Dr. Kaitlyn Cook from Smith College will give a math colloquium talk titled, Analysis of HIV Clinical Trials with Misclassified Interval-Censored Data in Rocky 312 at 4 PM. Tea time wil be at 3:30 in Rocky 305.\nMonday, February 23. Dr. Enrique Alvarado from Iowa State University will give a math colloquium talk titled Seeing the Shape of Data with Topology and Geometry in Rocky 312 at 4 PM. Tea time wil be at 3:30 in Rocky 305.\nApril 17-19. DataFest is a data analysis competition where teams of up to five students have a weekend to attack a large, complex, and surprise dataset. You will work together with your team members, and consult with mentors to find and communicate insights into these data. The teams that impress the judges the most will win prizes. Everyone else will have a great experience, learn some new skills, and have fun! Go to the website to register. :)"
   },
   {
     "objectID": "syllabus.html#texts",
