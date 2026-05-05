@@ -1,6 +1,6 @@
 ---
 title: "Notes"
-subtitle: "Spring 2025"
+subtitle: "Spring 2026"
 format: 
   html:
     page-layout: full
@@ -15,75 +15,59 @@ editor:
 ---
 
 All slides and handouts for this course can be accessed in [Google
-Drive](https://drive.google.com/drive/folders/1bSsXZYec0jS52443tdppaMiCBs901hX3?usp=sharing).
+Drive](https://drive.google.com/drive/folders/15st3JYukRb-Jn4CPmt7-ZV2dXwoqN_7x?usp=sharing).
 Please note that you must have a Vassar email in order to access the
 folder.
 
-**01/23/25.** 0-welcome. These slides give an overview of the course and
-the software we will be using.
+**Thur Jan 22.** 0-welcome. These slides give an overview of the course, and a brief history of LLMs.
 
-**01/28/25.** 1-R-vs-Python. These slides compare and contrast R and
-Python and includes a few coding exercises.
+**Tue Jan 27.** 1-R-vs-Python. These slides compare and contrast R and Python and includes a few coding exercises.
 
-**01/30/25.** Lab 1: Introduction to Git for Version Control.
+**Thu Jan 29.** Lab 1. Introduction to Git.
 
-**02/04/25.** 3-R-Python-datasci. These slides compare and contrast R
-and Python for manipulating datasets and includes a few coding
-exercises.
+**Tue Feb 3.** 3-R-Python-datasci. These slides compare and contrast R and Python for manipulating datasets and includes a few coding exercises.
 
-**02/06/25.** Lab 2: R, Python, and Git, Oh My!
+**Thu Feb 5.** Lab 2. R, Python, and Git, Oh My!
 
-**02/11/25.** 5-datavis-R. These slides discuss how you can create data
-visualizations in R. We also started Lab 3: Data Visualization in R and
-Python.
+**Tue Feb 10.** 5-datavis-R. These slides provide examples on how to create data visualizations in R. We then created a class-info dataset and created data visualizations from it.
 
-**02/13/25.** 6-datavis-py. These slides discuss how you can create data
-visualizations in Python. We also continued working on Lab 3: Data
-Visualization in R and Python.
+**Thu Feb 12.** 6-datavis-py. These slides provide examples on how to create data visualizations in Python. We went through an example with the class-info dataset, and then spent the last 30 minutes of class taking Quiz 1.
 
-**02/18/25**. 7-webscraping-R. These slides discuss how to web scrape in
-R and how to write functions in R. We also started working on Lab 4: Web
-Scraping in R.
+**Tue Feb 17.** 7-webscraping-R. These slides provide examples on how to use R and a CSS Selector Gadget for webs scraping. 
 
-**02/20/25.** 8-webscraping-R-py. These slides discuss how to web scrape
-in both R and Python at a larger scale. We continued working on Lab 4:
-Web Scraping in R.
+**Thu Feb 19.** 8-webscraping-R-py. These slides discuss how to web scrape at scale in R, and examples for web scraping in Python.
 
-**02/25/25.** 9-intro-machine-learning. These slides introduce machine
-learning by discussing supervised & unsupervised learning, regression,
-and classification.
+**Tue Feb 24.** 9-intro-ML. These slides introduce the big themes in machine learning and we saw examples of applying linear models, clustering analysis, and fitting a neural network to the Palmer Penguins dataset.
 
-**02/27/25.** 10-eval-models. These slides discuss how one can evaluate
-a model by thinking about mean square error, bias, and variance.
+**Thu Feb 26.** 10-eval-models. These slides discuss training data vs. testing data, flexible models vs. rigid models, MSE, bias, and variance.
 
-**03/04/25.** 11-datasci-ethics. These slides discuss data ethics and
-things to consider when pursuing your own data science projects.
+**Tue Mar 3.** 11-eval-models2. These notes discuss cross validation, bootstrapping, and linear regression.
 
-**03/06/25.** Project work day.
+**Thu Mar 5.** We had article discussions about machine learning and LLMs.
 
-**03/25/25.** 13-lin-reg. These slides discuss linear regression and how
-to implement it in Python.
+**Tue Mar 24.** 13-lasso-ridge. These slides discuss regularization and shrinkage methods including lasso, ridge, and elastic net. They also discuss how to implement these methods in Python.
 
-**03/27/25.** 14-lasso-ridge and 13-lasso-ridge-code. These slides
-discuss ridge and lasso regression and how to implement these methods in
-Python and R.
+**Thu Mar 26.** Project brainstorming day.
 
-**04/01/25.** 15-logistic. These slides discuss logistic regression and
-how to implement it in Python.
+**Tue Mar 31.** 14-clustering-PCA. These slides and notes discuss principal component analysis (PCA) and hierarchical clustering.
 
-**04/03/25.** 16-svm. These slides discuss support vector machines and
-how to implement them in Python.
+**Thu Apr 2.** 15-clustering-(kernel)PCA. These slides discuss PCA, kernel PCA, hierarchical clustering, and how to implement these methods in Python.
 
-**04/08/25.** 17-trees. These slides discuss decision tree modeling and
-implementing them in Python.
+**Tue Apr 7.** Guest speaker and project proposals.
 
-**04/10/25.** 18-forests. These slides discuss bagging, boosting, and
-random forests and how to implement them in Python.
+**Thu Apr 9.** Project proposal presentations and Quiz 3.
 
-**04/15/25.** 19-unsupervised-PCA. These slides introduce unsupervised
-learning and give a brief overview of principal component analysis
-(PCA). I also talked about how I use unsupervised learning in my
-research.
+**Tue Apr 14.** 16-deep-learning. These notes discuss the basic architecture of a neural network model, how we fit them, and some toy examples.
 
-**04/17/25.** 20-clustering. These slides and activities discuss k-means
-and hierarchical clustering.
+**Thu Apr 16.** 17-neural-nets. These slides discuss how to implement neural networks via PyTorch.
+
+**Tue Apr 21.** Peer review project work day.
+
+**Thu Apr 23.** We learned how to build a website through Quarto and GitHub pages and then took Quiz 4.
+
+**Tue Apr 28.** Professor An and Professor DeFord talked about their statistical and data science research.
+
+**Thu Apr 30.** Project Presentations.
+
+**Tue May 5.** Project presentations and last day of class!
+
